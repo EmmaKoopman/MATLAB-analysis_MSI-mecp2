@@ -1,7 +1,6 @@
-**MATLAB (R2025b) scripts used for analysis of MSI behavioural experiments with wild type and *mecp2* mutant zebrafish larvae**. 
+**MATLAB (R2025b) scripts used for analysis of multisensory integration behavioural experiments with wild type and *mecp2* mutant zebrafish larvae**. 
 
-The input data for the scripts were the output of an analysis done beforehand with DeepLabCut and Megabouts 
-through an automated pipeline. 
+Data that was processed and analysed with DeepLabCut and Megabouts was used to quantify and analyse multisensory integration in wild type and *mecp2* larvae. 
 
 Each script was used for the analysis of another parameter. The scripts had the following purposes:
 
