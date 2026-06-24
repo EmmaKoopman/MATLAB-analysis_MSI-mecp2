@@ -9,7 +9,7 @@ genotype.m: Contains the genotype of each larva for all experiments
 grab_data_MSI.m: Script that loads and reads the megabouts data and connects that data to the belonging meta data files of the experiments.
 The script also divides trials per experimantal condition and assigns which bout types were excecuted in each trial. 
 
-MSI_analysis_velicity.m: This script uses the velocity of the larvae to analyse MSI. Input data is the velocity over time of each trial.
+MSI_analysis_velocity.m: This script uses the velocity of the larvae to analyse MSI. Input data is the velocity over time of each trial.
 
 MSI_analysis_boutprob_reactiontime.m: This script uses bout probability of the larvae to analyse MSI. Additionally, reaction time is calculated. Input data is the time of bout starts for each trial.
 
