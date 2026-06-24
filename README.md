@@ -1,4 +1,4 @@
-**These MATLAB (R2025b) scripts were used to analyse the data of MSI behavioural experiments**. 
+**MATLAB (R2025b) scripts used for analysis of MSI behavioural experiments with wild type and *mecp2* mutant zebrafish larvae**. 
 
 The input data for the scripts were the output of an analysis done beforehand with DeepLabCut and Megabouts 
 through an automated pipeline. 
