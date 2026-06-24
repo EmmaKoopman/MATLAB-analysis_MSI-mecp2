@@ -1,0 +1,56 @@
+%% Genotypes of each larvae for all behavioural experiment batches
+% het = heterozygous
+% mut = mecp2 mutant
+% wt = wild type
+
+gene = cell(1,48);
+gene{1} = {'het','mut','het','het','het','wt','wt'}; % Batch 17
+gene{2} = {'wt','het','wt','wt','mut','het','het'}; % Batch 18
+gene{3} = {'het','wt','mut','het','wt','het','wt'}; % Batch 19
+gene{4} = {'het','mut','wt','mut','het','het','wt'}; % Batch 20
+gene{5} = {'mut','wt','het','wt','het','het','het'}; % Batch 21
+gene{6} = {'wt','wt','het','wt','het','mut','het'}; % Batch 22
+gene{7} = {'het','mut','wt','wt','het','het','het'}; % Batch 23
+gene{8} = {'het','mut','het','mut','het','wt','het'}; % Batch 24
+gene{9} = {'na','het','wt','het','het','het','mut'}; % Batch 25
+gene{10} = {'het','het','wt','het','wt','het','het'}; % Batch 26
+gene{11} = {'het','wt','het','wt','het','wt','mut'}; % Batch 27
+gene{12} = {'wt','mut','wt','mut','mut','mut','wt'}; % Batch 28
+gene{13} = {'het','het','mut','het','wt','het','wt'}; % Batch 29
+gene{14} = {'wt','wt','wt','het','mut','het','na'}; % Batch 30
+gene{15} = {'het','het','mut','het','mut','het','wt'}; % Batch 31
+gene{16} = {'het','het','het','mut','het','wt','het'}; % Batch 32
+gene{17} = {'het','wt','wt','het','het','het','het'}; % Batch 33
+gene{18} = {'wt','het','mut','wt','het','het','het'}; % Batch 34
+gene{19} = {'mut','mut','het','het','mut','het','het'}; % Batch 35
+gene{20} = {'het','wt','wt','wt','wt','mut','wt'}; % Batch 36
+gene{21} = {'het','het','wt','mut','wt','wt','mut'}; % Batch 37 
+gene{22} = {'het','mut','het','wt','het','het','het'}; % Batch 38
+gene{23} = {'het','wt','het','mut','het','het','het'}; % Batch 39
+gene{24} = {'het','wt','het','het','mut','het','het'}; % Batch 40
+gene{25} = {'mut','het','mut','mut','wt','het','het'}; % Batch 41
+gene{26} = {'het','mut','het','het','mut','het','het'}; % Batch 42
+gene{27} = {'het','wt','het','wt','het','het','mut'}; % Batch 43
+gene{28} = {'wt','het','het','mut','wt','het','wt'}; % Batch 44
+gene{29} = {'wt','mut','het','wt','het','mut','mut'}; % Batch 45
+gene{30} = {'wt','mut','mut','het','het','het','het'}; % Batch 46
+gene{31} = {'wt','mut','het','het','het','het','mut'}; % Batch 47
+gene{32} = {'het','wt','het','het','mut','het','mut'}; % Batch 48
+gene{33} = {'het','het','het','het','het','het','na'}; % Batch 49
+gene{34} = {'het','mut','wt','mut','het','het','het'}; % Batch 50
+gene{35} = {'mut','wt','het','mut','het','het','mut'}; % Batch 51
+gene{36} = {'wt','mut','wt','wt','wt','wt','het'}; % Batch 52
+gene{37} = {'het','het','het','het','mut','het','wt'}; % Batch 53
+gene{38} = {'het','mut','het','mut','wt','wt','mut'}; % Batch 54
+gene{39} = {'mut','het','het','het','wt','het','mut'}; % Batch 55
+gene{40} = {'mut','mut','het','het','het','wt','mut'}; % Batch 56
+gene{41} = {'het','wt','wt','wt','het','wt','het'}; % Batch 57
+gene{42} = {'wt','mut','wt','het','wt','mut','het'}; % Batch 58
+gene{43} = {'het','mut','het','het','het','wt','mut'}; % Batch 59
+gene{44} = {'wt','het','wt','wt','het','wt','wt'}; % Batch 60
+gene{45} = {'het','wt','het','het','wt','mut','mut'}; % Batch 61
+gene{46} = {'wt','na','na','wt','wt','mut','wt'}; % Batch 62
+gene{47} = {'wt','het','het','wt','het','mut','wt'}; % Batch 63
+gene{48} = {'wt','het','mut','het','mut','mut','het'}; % Batch 64
+
+
